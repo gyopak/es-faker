@@ -1,0 +1,19 @@
+{
+  "name": "es-faker",
+  "version": "1.0.1",
+  "description": "faker.js but with default export",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyopak/es-faker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyopak/es-faker/issues"
+  },
+  "homepage": "https://github.com/gyopak/es-faker#readme"
+}
